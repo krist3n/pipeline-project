@@ -1,4 +1,8 @@
-# school-to-prison-pipeline-project
-for BxD
+# School-to-Prison Pipeline Project
 
-you can see my R script and presentation
+## Description of Project
+Identifying key statistical indicators of the School-to-Prison pipeline. Also for BxD.
+
+## Navigating Project
+R scripts used to generate data visualizations.
+.pptx that we presented.
